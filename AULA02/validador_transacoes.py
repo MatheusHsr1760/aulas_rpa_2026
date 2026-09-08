@@ -17,3 +17,4 @@ for valor in transacoes:
         break
     else:
         print(f"[SUCESSO] Transação de R$ {valor:.2f} processada.")
+        
