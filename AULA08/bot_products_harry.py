@@ -108,3 +108,4 @@ def coletar_produtos_harry_potter():
 
 if __name__ == "__main__":
     coletar_produtos_harry_potter()
+
